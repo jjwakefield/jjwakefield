@@ -17,14 +17,14 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
 
 ---
 
-### 📝 Publications & Projects
-* **[Paper/Sonar Path Planning Using Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10706484)** - Evaluating a reinforcement learning agent's ability to control a passive towed array sonar for optimal source localisation and collision avoidance.
-* **[Paper/Hierarchical Multi-Target Tracking in Underwater Environments]** - Proposing a scalable, adaptive filtering strategy that selects between Kalman and particle filters based on target SNR to balance tracking accuracy and efficiency.
+### 📝 Publications
+* **[Sonar Path Planning Using Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10706484)** - Investigating the use of reinforcement learning to automate path planning for a passive sonar, optimizing for source localization and tracking.
+* **[Hierarchical Multi-Target Tracking in Underwater Environments]** - Proposing a scalable, adaptive filtering strategy that selects between Kalman and particle filters based on target SNR to balance tracking accuracy and efficiency.
 
 ---
 
-<h3 align="left">My Technical Skills</h3>
-<p align="left">
+<h3 align="center">My Technical Skills</h3>
+<p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" /></a>
   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="scipy" /></a>
