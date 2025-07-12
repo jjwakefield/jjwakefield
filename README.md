@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://images.pexels.com/photos/2049422/pexels-photo-2049422.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Profile Banner"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jjwakefield&theme=tokyonight&row=1&column=7" alt="Trophies" />
+  </a>
+</p>
+
 ### Hi there 👋
 
 > PhD Student @ University of Liverpool's Distributed Algorithms CDT. Researching Bayesian inference & signal processing for underwater acoustic and sonar applications.
