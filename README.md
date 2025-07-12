@@ -17,7 +17,8 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
 
 ---
 
-### 📝 Publications
+<h3 align="center">📝 Publications</h3>
+
 * **[Sonar Path Planning Using Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10706484)** - Investigating the use of reinforcement learning to automate path planning for a passive sonar, optimising for source localisation and tracking.
 * **Hierarchical Multi-Target Tracking in Underwater Environments** - Proposing a scalable, adaptive filtering strategy that selects between Kalman and particle filters based on target SNR to balance tracking accuracy and efficiency.
 
@@ -39,7 +40,7 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
 <h3 align="center">My GitHub Stats</h3>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjwakefield&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjwakefield&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjwakefield&layout=compact&locale=en&theme=tokyonight&count_private=true" alt="Top Languages" />
 </p>
 
@@ -51,6 +52,6 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
   </a>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=jjwakefield&label=Profile%20Visitors&color=blueviolet&style=flat" alt="Profile Visitor Counter" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jjwakefield&label=Profile%20Visitors&color=blueviolet&style=flat" alt="Profile Visitor Counter" />
 </p>
