@@ -6,7 +6,14 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
 
 - 🔭 I’m currently working on my PhD research in multi-target tracking.
 - 🌱 I’m currently learning more about advanced Bayesian filtering techniques.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/joshua-w-a05a77130) or [Email](sgjwakef@liverpool.ac.uk)
+
+<h3 align="center">Find me on</h3>
+<p align="center">
+  <a href="http://www.linkedin.com/in/joshua-w-a05a77130"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/YOUR_ORCID_ID_HERE"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://www.researchgate.net/profile/YOUR_PROFILE_NAME"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
+  <a href="mailto:sgjwakef@liverpool.ac.uk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 <h3 align="left">My Technical Skills:</h3>
 <p align="left">
