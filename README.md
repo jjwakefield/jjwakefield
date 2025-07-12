@@ -32,11 +32,5 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjwakefield&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjwakefield&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=jjwakefield&label=Profile%20Visitors&color=blueviolet&style=flat" alt="Profile Visitor Counter" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
