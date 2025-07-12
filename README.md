@@ -19,7 +19,7 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
 
 ### 📝 Publications
 * **[Sonar Path Planning Using Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10706484)** - Investigating the use of reinforcement learning to automate path planning for a passive sonar, optimising for source localisation and tracking.
-* **[Hierarchical Multi-Target Tracking in Underwater Environments]** - Proposing a scalable, adaptive filtering strategy that selects between Kalman and particle filters based on target SNR to balance tracking accuracy and efficiency.
+* **Hierarchical Multi-Target Tracking in Underwater Environments** - Proposing a scalable, adaptive filtering strategy that selects between Kalman and particle filters based on target SNR to balance tracking accuracy and efficiency.
 
 ---
 
