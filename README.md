@@ -30,5 +30,7 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
 <h3 align="center">My GitHub Stats</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjwakefield&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&layout=compact&locale=en&theme=tokyonight&count_private=true" alt="Top Languages" />
 </p>
