@@ -30,7 +30,6 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
 <h3 align="center">My GitHub Stats</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjwakefield&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br>
 </p>
