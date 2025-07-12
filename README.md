@@ -18,3 +18,9 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="latex" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
 </p>
+
+<h3 align="left">My GitHub Stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjwakefield&show_icons=true&locale=en&theme=transparent" alt="jjwakefield" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjwakefield&layout=compact&locale=en&theme=transparent" alt="jjwakefield" />
+</p>
