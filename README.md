@@ -18,8 +18,8 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
 ---
 
 ### 📝 Publications & Projects
-* **[Paper/Project Title 1](link-to-paper-or-repo)** - A brief one-line description of the work.
-* **[Paper/Project Title 2](link-to-paper-or-repo)** - A brief one-line description of the work.
+* **[Paper/Sonar Path Planning Using Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10706484)** - Evaluating a reinforcement learning agent's ability to control a passive towed array sonar for optimal source localisation and collision avoidance.
+* **[Paper/Hierarchical Multi-Target Tracking in Underwater Environments]** - Proposing a scalable, adaptive filtering strategy that selects between Kalman and particle filters based on target SNR to balance tracking accuracy and efficiency.
 
 ---
 
