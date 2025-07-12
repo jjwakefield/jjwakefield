@@ -15,7 +15,15 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
   <a href="mailto:sgjwakef@liverpool.ac.uk"><img src="https://img.shields.io/badge/sgjwakef@liverpool.ac.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">My Technical Skills:</h3>
+---
+
+### 📝 Publications & Projects
+* **[Paper/Project Title 1](link-to-paper-or-repo)** - A brief one-line description of the work.
+* **[Paper/Project Title 2](link-to-paper-or-repo)** - A brief one-line description of the work.
+
+---
+
+<h3 align="left">My Technical Skills</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" /></a>
@@ -31,7 +39,8 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
 <h3 align="center">My GitHub Stats</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjwakefield&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjwakefield&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjwakefield&layout=compact&locale=en&theme=tokyonight&count_private=true" alt="Top Languages" />
 </p>
 
 ---
@@ -40,4 +49,8 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jjwakefield&theme=tokyonight&row=1&column=7" alt="Trophies" />
   </a>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=jjwakefield&label=Profile%20Visitors&color=blueviolet&style=flat" alt="Profile Visitor Counter" /> 
 </p>
