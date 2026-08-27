@@ -19,6 +19,7 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
 
 <h3 align="center">📝 Publications</h3>
 
+* **A Sonar Signal Processing Plugin for Stone Soup** - An open-source sonar signal processing Python package, with direct integration with Stone Soup. Supports higher-fidelity sonar data analysis, detection, and tracking.
 * **Hierarchical Multi-Target Tracking in Underwater Environments** - Proposing a scalable, adaptive filtering strategy that selects between Kalman and particle filters based on target SNR to balance tracking accuracy and efficiency.
 * **A Machine Learning Approach for Model Selection in Underwater Acoustic Propagation** - Developing a machine learning classifier to select the most appropriate underwater acoustic propagation model based on a wide range of environmental parameters.
 * **[Sonar Path Planning Using Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10706484)** - Investigating the use of reinforcement learning to automate path planning for a passive sonar, optimising for source localisation and tracking.
