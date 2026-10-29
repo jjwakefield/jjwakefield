@@ -39,15 +39,6 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
 
 ---
 
-<h3 align="center">My GitHub Stats</h3>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjwakefield&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjwakefield&layout=compact&locale=en&theme=tokyonight&count_private=true" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jjwakefield&theme=tokyonight&row=1&column=7" alt="Trophies" />
