@@ -36,15 +36,3 @@ I'm a PhD researcher at the **University of Liverpool**, affiliated with the **C
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="latex" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
 </p>
-
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jjwakefield&theme=tokyonight&row=1&column=7" alt="Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jjwakefield&label=Profile%20Visitors&color=blueviolet&style=flat" alt="Profile Visitor Counter" />
-</p>
